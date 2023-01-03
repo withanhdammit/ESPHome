@@ -16,7 +16,8 @@
 * Common cathode RGB LEDs
   * https://www.amazon.com/dp/B01C19ENDM
 * 3d Printable box
-  * https://www.thingiverse.com/thing:5523524
+  * https://github.com/withanhdammit/ESPHome/tree/main/multisensor/stl
+  * Also available at https://www.thingiverse.com/thing:5523524
 
 This project was based on ResinChem Tech's project found at
 * https://resinchemtech.blogspot.com/2022/10/a-new-multisensor.html
