@@ -3,6 +3,7 @@
   * https://www.amazon.com/dp/B07PRMJ6QS
   * This should also work with a D1 Mini
     * https://www.amazon.com/dp/B073CQVFLK
+
 * Prototype board
   * https://www.amazon.com/dp/B07ZYNWJ1S
 * M2x5mm screws (for mounting into board)
