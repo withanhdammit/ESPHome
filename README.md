@@ -1,3 +1,3 @@
 # ESPHome projects
 
-## [MultiSensor](withanhdammit/ESPHome/tree/main/multisensor)
+## [MultiSensor](https://github.com/withanhdammit/ESPHome/tree/main/multisensor)
