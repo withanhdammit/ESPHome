@@ -1,7 +1,4 @@
 # Multi-sensor components
-
-## ESPHome
-
 * Prototype board
   * https://www.amazon.com/dp/B07ZYNWJ1S
 * M2x5mm screws (for mounting into board)
@@ -14,7 +11,8 @@
   * https://www.amazon.com/dp/B07V3QJ8G2
 * Common cathode RGB LEDs
   * https://www.amazon.com/dp/B01C19ENDM
+* 3d Printable box
+ * https://www.thingiverse.com/thing:5523524
 
 This project was based on ResinChem Tech's project found at
-
-https://resinchemtech.blogspot.com/2022/10/a-new-multisensor.html
+* https://resinchemtech.blogspot.com/2022/10/a-new-multisensor.html
