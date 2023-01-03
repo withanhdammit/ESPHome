@@ -1,3 +1,3 @@
 # ESPHome projects
 
-## [MultiSensor](withanhdammit/ESPHome/blob/main/multisensor)
+## [MultiSensor](withanhdammit/ESPHome/tree/main/multisensor)
