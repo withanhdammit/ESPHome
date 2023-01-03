@@ -1,7 +1,6 @@
 substitutions:
-  sensorname: sensor-garage
-  entitysub: Garage
-  ipaddress: 10.42.100.101
+  sensorname: multisensor
+  entitysub: Multisensor
   domain: !secret domain
 
 esphome:
@@ -32,10 +31,10 @@ wifi:
 
   use_address: $sensorname.$domain
   manual_ip:
-    static_ip: $ipaddress
-    subnet: !secret subnet
-    gateway: !secret gateway
-    dns1: !secret dns_iot
+    static_ip: 192.168.0.11
+    subnet: 255.255.255.0
+    gateway: 192.168.0.1
+    dns1: 192.168.0.1
 
 captive_portal:
 
